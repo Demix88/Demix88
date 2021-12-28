@@ -24,6 +24,31 @@ Hi, I’m @Demix88
 
 <h2>Portfolio website</h2>
 <p>It's a homepage done with HTML and CSS with navbars overlays etc.</p>
+<hr>
+
+<h1>JavaSript</h1>
+
+
+<ul>
+<li><a href="https://github.com/Demix88/Pizza_Project.git" >Pizza Menu</a></li>
+<li><a href="https://github.com/Demix88/TicTacToe.git">Tic Tac Toe</a></li>
+<li><a href="https://github.com/Demix88/Calculator.git">Calculator</a></li>
+<li><a href="https://demix88.github.io/">Portfolio Website updated with Javascript</a></li>
+</ul>
+
+<br>
+<h2>Pizza menu</h2>
+
+<p>This project is a menu used to order pizza select toppings and it calculates the final cost</p>
+
+<h2>Tic Tac Toe</h2>
+<p>A simple tic tac toe game with sounds and even a very basic AI. </p>
+
+<h2>Calculator</h2>
+<p>A basic 4 function calculator. USers can add,subtract,multiply and divide on a neetly designed calculator</p>
+
+<h2>Portfolio website</h2>
+<p> My portfolio website with slideshow pop up form and great design</p>
 
 
 

@@ -50,6 +50,28 @@ Hi, I’m @Demix88
 <h2>Portfolio website</h2>
 <p> My portfolio website with slideshow pop up form and great design</p>
 
+<h1>C#/h1>
+  <ul>
+<li><a href="https://github.com/Demix88/CarInsuranceMVC.git" >Car Insurance Website</a></li>
+<li><a href="https://github.com/Demix88/TwentyOne.git">Twenty One Card Game</a></li>
+
+</ul>
+
+<br>
+<h2>Car Insurance Website/h2>
+
+<p>A sample website With MVC web application that let's you run the insurance quotes after addign all your details fitted with admin controller view</p>
+  
+  <h2>Twenty One Game/h2>
+
+<p>A console based game with bank, excellent shuffle and dealercomes and exception handling </p>
+
+  
+  
+
+  
+  
+
 
 
 .

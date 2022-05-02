@@ -33,7 +33,7 @@ Hi, I’m @Demix88
 <li><a href="https://github.com/Demix88/Pizza_Project.git" >Pizza Menu</a></li>
 <li><a href="https://github.com/Demix88/TicTacToe.git">Tic Tac Toe</a></li>
 <li><a href="https://github.com/Demix88/Calculator.git">Calculator</a></li>
-  <li><a href=https://github.com/Demix88/Virtual_Keyboard.git">Virtual Keyboard</a></li>
+ <li><a href=https://github.com/Demix88/Virtual_Keyboard.git">Virtual Keyboard</a></li>
 <li><a href="https://demix88.github.io/">Portfolio Website updated with Javascript</a></li>
 </ul>
 

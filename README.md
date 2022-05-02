@@ -33,6 +33,7 @@ Hi, I’m @Demix88
 <li><a href="https://github.com/Demix88/Pizza_Project.git" >Pizza Menu</a></li>
 <li><a href="https://github.com/Demix88/TicTacToe.git">Tic Tac Toe</a></li>
 <li><a href="https://github.com/Demix88/Calculator.git">Calculator</a></li>
+  <li><a href=https://github.com/Demix88/Virtual_Keyboard.git">Virtual Keyboard</a></li>
 <li><a href="https://demix88.github.io/">Portfolio Website updated with Javascript</a></li>
 </ul>
 
@@ -46,6 +47,10 @@ Hi, I’m @Demix88
 
 <h2>Calculator</h2>
 <p>A basic 4 function calculator. USers can add,subtract,multiply and divide on a neetly designed calculator</p>
+    
+ 
+<h2>Virtual Keyboard</h2>
+<p>Simple JavaScript keyboard with caps lock enter and hideaway buttons.</p>
 
 <h2>Portfolio website</h2>
 <p> My portfolio website with slideshow pop up form and great design</p>

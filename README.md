@@ -7,7 +7,7 @@ Hi, I’m @Demix88
 <li><a href="https://github.com/Demix88/bootstrap4_project.git ">Movie Theater</a></li>
 <li><a href="https://github.com/Demix88/bootstrap4_project.git">Tokyo</a></li>
 <li><a href="https://github.com/Demix88/One-Page-Website.git">One page Website</a></li>
-<li><a href="https://demix88.github.io/">Portfolio Website</a></li>
+
 </ul>
 <br>
 <h2>Space station</h2>
@@ -22,9 +22,7 @@ Hi, I’m @Demix88
 <h2>One page website</h2>
 <p>It's a homepage about  various sharks which i made using HTML and formatted with CSS contains a basic navbar and some hover effects </p>
 
-<h2>Portfolio website</h2>
-<p>It's a homepage done with HTML and CSS with navbars overlays etc.</p>
-<hr>
+
 
 <h1>JavaSript</h1>
 
@@ -34,6 +32,7 @@ Hi, I’m @Demix88
 <li><a href="https://github.com/Demix88/TicTacToe.git">Tic Tac Toe</a></li>
 <li><a href="https://github.com/Demix88/Calculator.git">Calculator</a></li>
  <li><a href="https://github.com/Demix88/Virtual_Keyboard.git">Virtual Keyboard</a></li>
+  <li><a href="https://github.com/Demix88/WeatherApi.git">Weather app</a></li>
 <li><a href="https://demix88.github.io/">Portfolio Website updated with Javascript</a></li>
 </ul>
 
@@ -51,6 +50,9 @@ Hi, I’m @Demix88
  
 <h2>Virtual Keyboard</h2>
 <p>Simple JavaScript keyboard with caps lock enter and hideaway buttons.</p>
+
+<h2>Weather App</h2>
+<p>Website that displays upddated weather, you type in city,continent tap enter or search button and you get up-to-date weather forecast with humidity description wind speeds,etc.</p>
 
 <h2>Portfolio website</h2>
 <p> My portfolio website with slideshow pop up form and great design</p>

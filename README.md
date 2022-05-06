@@ -32,7 +32,7 @@ Hi, I’m @Demix88
 <li><a href="https://github.com/Demix88/TicTacToe.git">Tic Tac Toe</a></li>
 <li><a href="https://github.com/Demix88/Calculator.git">Calculator</a></li>
  <li><a href="https://github.com/Demix88/Virtual_Keyboard.git">Virtual Keyboard</a></li>
-
+ <li><a href="https://github.com/Demix88/Quiz_App.git">Quiz App</a></li>
 <li><a href="https://demix88.github.io/">Portfolio Website updated with Javascript</a></li>
 </ul>
 
@@ -51,10 +51,29 @@ Hi, I’m @Demix88
 <h2>Virtual Keyboard</h2>
 <p>Simple JavaScript keyboard with caps lock enter and hideaway buttons.</p>
 
+<h2>Virtual Keyboard</h2>
+<p>Fun,simple quiz App with questions, background responds to correct or incorrect answers and a restart button.</p>
+
+
 
 
 <h2>Portfolio website</h2>
 <p> My portfolio website with slideshow pop up form and great design</p>
+
+
+<h1>React</h1>
+
+<ul>
+
+ <li><a href="https://github.com/Demix88/Todo_with_React.git">ToDo list with React</a></li>
+
+
+</ul>
+
+<h2>ToDoList</h2>
+<p>ToDo list app I built using react.Great design and has function to remove completed tasks </p>
+
+
 
 <h1>C#</h1>
   <ul>

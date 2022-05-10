@@ -51,7 +51,7 @@ Hi, I’m @Demix88
 <h2>Virtual Keyboard</h2>
 <p>Simple JavaScript keyboard with caps lock enter and hideaway buttons.</p>
 
-<h2>Virtual Keyboard</h2>
+<h2>Quiz App</h2>
 <p>Fun,simple quiz App with questions, background responds to correct or incorrect answers and a restart button.</p>
 
 
